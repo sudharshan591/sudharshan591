@@ -42,6 +42,22 @@ const sudharshan = {
 
 <br clear="right"/>
 
+<!-- ════════════════════ 3.5 REACT NATIVE — CROSS-PLATFORM ════════════════════ -->
+## 📱 React Native — One Codebase, Two Platforms
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=38BDAE&center=true&vCenter=true&width=760&lines=Write+once%2C+ship+to+Android+%2B+iOS+%F0%9F%93%B1;React+Native+%2B+Expo+%2B+TypeScript;Live+on+Google+Play+%26+Apple+App+Store+%F0%9F%9A%80;Redux+Toolkit+%E2%80%A2+REST+APIs+%E2%80%A2+60fps+UI" alt="React Native Typing SVG"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%2B-0d1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/>
+</div>
+
+> A single **React Native** codebase compiled to **native Android & iOS** — shipped, signed and **live on both stores**. Global state with **Redux Toolkit**, real-time **REST APIs**, and smooth **60fps** lists via memoization & efficient `FlatList` rendering.
+
 <!-- ════════════════════ 4. TECH BADGES ════════════════════ -->
 ## 🛠️ Tech Stack
 
